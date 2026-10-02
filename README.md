@@ -1,22 +1,4 @@
-# ISOSCELES — Architectural Observatory
 
-**Daniel Martins | Conceptsbydan | Vertascan**
-
-A ready-to-host architectural presentation with the original GLB model, guided views, orthographic elevations, section cuts, component inspection, measurements, lighting controls and technical design dossier.
-
-## Publish on GitHub Pages
-
-1. Extract this ZIP on your device.
-2. Create a GitHub repository, for example `isosceles`.
-3. Upload the extracted contents to the repository root and commit them to `main`. Upload the files and folders, not the ZIP. `index.html` must be directly at the repository root; preserve the `assets` folder and its `model.glb` file.
-4. Open **Settings → Pages**.
-5. Under **Build and deployment**, select **Deploy from a branch**.
-6. Select **main** and **/(root)**, then **Save**.
-7. Wait for the deployment to complete. Open the website link shown in Pages settings. A project site normally uses `https://YOUR-USERNAME.github.io/isosceles/`.
-
-No installation, build command, API key, account connector or backend is needed to host this package. All rendering code and model assets are included. Relative asset paths support GitHub project subdirectories. The optional `.nojekyll` file disables Jekyll processing; keep it if your upload method includes hidden files.
-
-Official publishing instructions: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
 
 ## Files
 
