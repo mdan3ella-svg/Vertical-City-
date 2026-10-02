@@ -1,0 +1,15 @@
+{
+  "name": "isosceles-viewer-source",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "esbuild app-source.js --bundle --minify --format=esm --outfile=../app.js"
+  },
+  "dependencies": {
+    "three": "0.180.0"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.10"
+  }
+}
